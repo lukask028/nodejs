@@ -1,0 +1,22 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "Node com MySQL para curso de desenvolvimento WEB da PUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no Test specified\\\\\\\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "MySQL",
+    "JavScript"
+  ],
+  "author": "Romulo Scotelaro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {}
+}
